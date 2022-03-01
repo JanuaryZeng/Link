@@ -24,8 +24,8 @@ int *a;
 int b;
 C c;
 D d;
-//E e(1);
-//int f = 0;
+E e(1);
+int f = 1;
 
 int main(){
     swap(1,2,3);
