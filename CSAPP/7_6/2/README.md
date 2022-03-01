@@ -12,3 +12,4 @@ gcc -c main2.c
 gcc -static -o prog2c main2.o ./libvector.a 
 ```
 
+![](./链接图.png)
