@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/main.dir/main.o  -o main -Wl,-rpath,/home/january/下载/CMakeTest/t3/usr/lib /home/january/下载/CMakeTest/t3/usr/lib/libhello.so 

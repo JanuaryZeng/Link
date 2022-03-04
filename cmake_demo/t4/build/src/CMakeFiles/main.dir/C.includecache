@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/january/下载/CMakeTest/t3/usr/include/hello/hello.h
+stdio.h
+-
+
+/home/january/下载/CMakeTest/t4/src/main.c
+hello.h
+-
+

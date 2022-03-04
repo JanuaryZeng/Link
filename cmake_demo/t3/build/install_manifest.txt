@@ -1,0 +1,3 @@
+/home/january/下载/CMakeTest/t3/usr/lib/libhello.so
+/home/january/下载/CMakeTest/t3/usr/lib/libhello.a
+/home/january/下载/CMakeTest/t3/usr/include/hello/hello.h

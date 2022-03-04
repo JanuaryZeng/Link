@@ -1,0 +1,5 @@
+/home/january/下载/CMakeTest/t2/usr/share/doc/cmake/t2/COPYRIGHT
+/home/january/下载/CMakeTest/t2/usr/share/doc/cmake/t2/README
+/home/january/下载/CMakeTest/t2/usr/bin/runhello.sh
+/home/january/下载/CMakeTest/t2/usr/share/doc/cmake/t2/hello.txt
+/home/january/下载/CMakeTest/t2/usr/bin/hello
