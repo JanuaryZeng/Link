@@ -5,3 +5,9 @@
 链接 gcc hello.o -o hello
 ```
 
+debug.out是使用如下命令编译的：
+
+```shell
+gcc -g -o debug.out sum.c main.c
+```
+
